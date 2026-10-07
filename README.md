@@ -1,6 +1,8 @@
 # Tutorial: Raspberry Pi Pico 2 W con el SDK C/C++
 Este tutorial muestra cómo preparar, compilar y cargar programas C/C++ para la
 **Raspberry Pi Pico 2 W** usando el **Raspberry Pi Pico SDK**.
+
+
 ![](./images/Screenshot%202026-10-06%20200801.png)
 
 Pines del raspberry pi pico 2w:
