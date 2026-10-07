@@ -1,12 +1,20 @@
 # Tutorial: Raspberry Pi Pico 2 W con el SDK C/C++
-
 Este tutorial muestra cómo preparar, compilar y cargar programas C/C++ para la
-**Raspberry Pi Pico 2 W** usando el **Raspberry Pi Pico SDK**. El repositorio
+**Raspberry Pi Pico 2 W** usando el **Raspberry Pi Pico SDK**.
+![](./images/Screenshot%202026-10-06%20200801.png)
+
+Pines del raspberry pi pico 2w:
+
+![](./images/Screenshot%202026-10-06%20200904.png)
+
+ El repositorio
 incluye un ejemplo funcional que alterna un LED externo y lee una entrada
 analógica por USB:
 
 - Código: [`adc_test1/adc_test1.cpp`](./adc_test1/adc_test1.cpp)
 - Configuración CMake: [`adc_test1/CMakeLists.txt`](./adc_test1/CMakeLists.txt)
+
+![](./images/Gemini_Generated_Image_64xbht64xbht64xb.jpeg)
 
 El ejemplo del repositorio está configurado para la placa `pico2_w` y Pico SDK
 2.3.1. El SDK proporciona funciones de bajo nivel para GPIO, ADC, temporizadores,
